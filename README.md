@@ -210,6 +210,7 @@ schematic
 ## Physical Design (Innovus)
 
 ##Power Planning: Creating Power Rings and Straps (VDD/GND) to ensure robust power delivery.
+<img width="738" height="646" alt="WhatsApp Image 2026-05-10 at 6 08 52 PM" src="https://github.com/user-attachments/assets/636ebac7-da27-4a8c-b283-15bc9fbeff2c" />
 
 
 ### Final Layout
